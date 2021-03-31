@@ -1,0 +1,7 @@
+Name:Anik Sinha	
+Address: Scarbourough, ON, Canada	
+Email ID: anik@gmail.com	
+Phone: 6475632467
+blood group: B-
+
+sed -n '1p;5p' tesfile.txt
